@@ -1,0 +1,17 @@
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\bin\Release\net6.0\GestionTareas.Data.deps.json
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\bin\Release\net6.0\GestionTareas.Data.runtimeconfig.json
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\bin\Release\net6.0\GestionTareas.Data.dll
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\bin\Release\net6.0\GestionTareas.Data.pdb
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\bin\Release\net6.0\GestionTareas.Domain.dll
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\bin\Release\net6.0\GestionTareas.Domain.pdb
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.csproj.AssemblyReference.cache
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.AssemblyInfoInputs.cache
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.AssemblyInfo.cs
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.csproj.CoreCompileInputs.cache
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.csproj.CopyComplete
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.dll
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\refint\GestionTareas.Data.dll
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.pdb
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\GestionTareas.Data.genruntimeconfig.cache
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Data\obj\Release\net6.0\ref\GestionTareas.Data.dll

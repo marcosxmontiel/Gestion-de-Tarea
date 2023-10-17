@@ -1,0 +1,14 @@
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\bin\Release\net6.0\GestionTareas.Domain.deps.json
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\bin\Release\net6.0\GestionTareas.Domain.runtimeconfig.json
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\bin\Release\net6.0\GestionTareas.Domain.dll
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\bin\Release\net6.0\GestionTareas.Domain.pdb
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\GestionTareas.Domain.csproj.AssemblyReference.cache
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\GestionTareas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\GestionTareas.Domain.AssemblyInfoInputs.cache
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\GestionTareas.Domain.AssemblyInfo.cs
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\GestionTareas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\GestionTareas.Domain.dll
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\refint\GestionTareas.Domain.dll
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\GestionTareas.Domain.pdb
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\GestionTareas.Domain.genruntimeconfig.cache
+C:\Users\mmontiel\source\repos\GestionTareas\GestionTareas.Domain\obj\Release\net6.0\ref\GestionTareas.Domain.dll

@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div id="app">{{ message }}</div>
+</div>
+
+@section Scripts{
+<script>
+    const { createApp, ref } = Vue
+
+    //createApp({
+    //    setup() {
+    //        const message = ref('Hello vue!')
+    //        return {
+    //            message
+    //        }
+    //    }
+    //}).mount('#app')
+
+    const app = createApp({
+      data() {
+        const message = ref('Hola mundo!')
+        return {
+            message
+        }
+      }
+    })
+
+    app.mount('#app')
+
+</script>
+}
